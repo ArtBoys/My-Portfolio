@@ -33,7 +33,6 @@ I am a Frond End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawe%C5%82-rz%C4%85sa-232165261)
 
-<div>Qr-Code mode</div>
 <a href="qr-code-9oahptvt2-artboysproject-gmailcom.vercel.app"></a>
 
 ### :hammer_and_wrench: Languages and Tools :
