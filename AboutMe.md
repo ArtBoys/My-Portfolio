@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -45,6 +46,8 @@ I am a Frond End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="40" height="40"/>
 </div>
 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
@@ -65,23 +68,36 @@ I am a Frond End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 ### :writing_hand: My App:
+
+#### QR code component - HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, Less.js.
 <div>
-  <div>
+        <a href="https://qr-code-pied.vercel.app">QR code component </a>
+</div>
+
+#### Interactive-card-details -  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>&nbsp;
+<div>
+      <a href="https://interactive-card-details-drab.vercel.app">Interactive-card-details</a>
+</div>
+
+#### 6m-one-page -  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, Sass <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="21" height="21"/>
+ <div>
+      <a href="https://6m-one-page.vercel.app">6m-one-page</a>
+  </div>
+
+  #### React-spending-money -  React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
+ <div>
      <a href="https://react-spending-money.vercel.app">React-spending-money</a>
   </div>
+
+
+  #### Faq-accordion-card -   HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
+
    <div>
      <a href="https://faq-accordion-card-six-ashy.vercel.app/">Faq-accordion-card</a>
   </div>
-  <div>
-      <a href="https://interactive-card-details-drab.vercel.app">Interactive-card-details</a>
-  </div>
-   <div>
-      <a href="https://6m-one-page.vercel.app">6m-one-page</a>
-  </div>
-   <div>
-         <a href="https://qr-code-pied.vercel.app">Qr-code</a>
-  </div>
-</div>
+  
+  
+  
 
 
 
