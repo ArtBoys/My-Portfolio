@@ -5,7 +5,7 @@
 
 <div align="center">
   <span>☞</span>
-  <a href="https://github.com/ArtBoys/My-Portfolio/edit/main/AboutMe.md#woman_technologist-my-portfolio">My portfolio</a>
+  <a href="https://github.com/ArtBoys/My-Portfolio/blob/main/AboutMe.md">My portfolio</a>
   <span>☜</span>
 </diV>
 <br>
