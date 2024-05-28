@@ -152,6 +152,14 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
  <div>
      <a href="https://react-class-base.vercel.app/"> React Search Users </a>
   </div>
+
+
+#### React Login Panel : React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/> 
+Login: example@gmail.com
+Password: qweasd1
+ <div>
+     <a href="https://react-typical-page.vercel.app/">React Login Panel</a>
+  </div>
   
 #### React Counter hook : React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
  <div>
@@ -164,18 +172,6 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
 
 
 
-
-
-
-
-  
-  <!-- 
-  #### React Login Panel -  React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/> 
- <div>
-     <a href="https://react-typical-page.vercel.app/">React Login Panel</a>
-  </div> - do uzupelenia dane do logowania
-
-  -->
 
   
 
