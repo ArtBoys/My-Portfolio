@@ -74,7 +74,9 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
 
 ## :writing_hand: My App:
 
-
+<br></br>
+### Components
+<hr>
 
 #### QR code component - HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, Less.js.
 <div>
@@ -119,7 +121,14 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
   </div>
 
  
+<br></br>
+### JavaScript
+<hr>
 
+#### Game Hangman : JavaScript  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
+ <div>
+     <a href="https://game-hangman-kappa.vercel.app"> Game Hangman JavaScript </a>
+ </div>
   
 
 <br></br>
