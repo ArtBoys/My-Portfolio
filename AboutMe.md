@@ -88,7 +88,7 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
       <a href="https://interactive-card-details-drab.vercel.app">Interactive-card-details</a>
 </div>
 
-#### Faq-accordion-card -   HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
+#### Faq-accordion-card -   HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>
 
    <div>
      <a href="https://faq-accordion-card-six-ashy.vercel.app/">Faq-accordion-card</a>
@@ -122,7 +122,7 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
 
   #### Weather City Application API : HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/> CSS
 <div>
-     <a href="https://weather-app-javascript-dusky.vercel.app"> React Requests Fetch API Starswars </a>
+     <a href="https://weather-app-javascript-dusky.vercel.app"> Weather City Application API </a>
   </div>
 
  
@@ -164,6 +164,11 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
  <div>
      <a href="https://random-photos-umber.vercel.app/">Random Photos JavaScript</a>
  </div>
+
+  #### Weather City Application API : HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/> CSS
+<div>
+     <a href="https://weather-app-javascript-dusky.vercel.app"> Weather City Application API </a>
+  </div>
 
   
 
