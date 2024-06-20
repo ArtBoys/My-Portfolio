@@ -78,12 +78,12 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
 ### Components
 <hr>
 
-#### QR code component - HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, Less.js.
+#### QR code component - HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, Less.js <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="30" height="30"/>.
 <div>
         <a href="https://qr-code-pied.vercel.app">QR code component </a>
 </div>
 
-#### Interactive-card-details -  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, Less.js;
+#### Interactive-card-details -  HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, Less.js <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" alt="Less" width="30" height="30"/>.
 <div>
       <a href="https://interactive-card-details-drab.vercel.app">Interactive-card-details</a>
 </div>
@@ -141,11 +141,7 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
      <a href="https://country-guide-api-alpha.vercel.app/">  Guide Country AP </a>
   </div>
 
-  
 
-  
-
- 
 <br></br>
 ### JavaScript
 <hr>
