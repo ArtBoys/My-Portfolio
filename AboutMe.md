@@ -131,6 +131,11 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
      <a href="https://weather-app-javascript-dusky.vercel.app"> Weather City Application API </a>
   </div>
 
+   #### Joke Generator API : HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/> CSS
+<div>
+     <a href="https://random-joke-generator-five.vercel.app/"> Joke Generator API </a>
+  </div>
+
  
 <br></br>
 ### JavaScript
