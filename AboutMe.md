@@ -139,6 +139,13 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
 <div>
      <a href="https://country-guide-api-alpha.vercel.app/">  Guide Country AP </a>
   </div>
+  
+  #### Currency Coverter API : HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/> CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>
+<div>
+     <a href="https://javascript-currency-coverter.vercel.app/"> Currency Coverter API </a>
+  </div>
+  
+  
 
 <br></br>
 ### PHP
