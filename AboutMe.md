@@ -162,10 +162,24 @@ I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/W
  </div>
 
    #### Chatbot : PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="20" height="20"/>, MySql   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>, HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>,  CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, Bootstrap   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="21" height="21"/>
-   questions that can be asked: <strong>greetings </strong> (hello, hello, hello),  <strong>queries</strong> (what's your name, what's your name ?, where are you from, where are you from ?),  <strong>goodbye</strong> (bye, by, good bye, good by)
+   <a href="https://php-chatbot-app.000webhostapp.com/">Chatbot PHP</a> - 
+   questions that can be asked: <br>
+   <ul>
+     <li><strong>greetings - </strong> (hi, hello),</li>
+     <li><strong>queries</strong> - (what's your name, what's your name ?, where are you from, where are you from ?),</li>
+     <li><strong>goodbye</strong> (bye, by, good bye, good by)</li>
+   </ul>    
   <br>
-  <div>
-      <a href="https://php-chatbot-app.000webhostapp.com/">Chatbot PHP</a>
+  
+ #### Settlers Game Login : PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="20" height="20"/>, MySql <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>, HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>,  CSS <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="21" height="21"/>, JS <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="21" height="21"/>, Bootstrap   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="21" height="21"/>
+ <div>
+      <a href="http://settlers.free.nf/">Settlers Game Login PHP</a>
+     Log in to the game connected to the MySql database using the data: <br>
+   <ul>
+     <li>Login: paul</li>
+     <li>Password: ghjkl123</li>
+   </ul>
+      Or Create a new user account.
  </div>
 
 
