@@ -26,9 +26,9 @@
 
 I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+:telescope: I’m working as a Frontend Developer, building web applications.
 
-- :seedling: Discover what's new with JavaScript and React.
+- :seedling: I'm currently learning and exploring React, Vue, and Laravel.
 
 - :zap: In my free time, I spend time improving my skills.
 
