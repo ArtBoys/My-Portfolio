@@ -24,7 +24,7 @@
 
 ## :woman_technologist: My Portfolio:
 
-I am a Frond End Developer from Poland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am a Frond End Developer from Poland.
 
 :telescope: I’m working as a Frontend Developer, building web applications.
 
