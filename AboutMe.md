@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <div> <h1 style="font-size:30px">Welcome everyone</span></div>
+  <div> <h1 style="font-size:30px">Welcome Everyone</span></div>
   <div> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/></div>
 </diV>
 
@@ -24,9 +24,9 @@
 
 ## :woman_technologist: My Portfolio:
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am a Frond End Developer from Poland.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> „I’m working as a Frontend Developer, building web applications”
 
-:telescope: I’m working as a Frontend Developer, building web applications.
+:telescope: I’m currently involved in developing web applications using modern frontend technologies.
 
 - :seedling: I'm currently learning and exploring React, Vue, and Laravel.
 
